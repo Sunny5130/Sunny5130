@@ -1,6 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sunny Saini</h1>
 <h3 align="center">🚀 Full Stack Developer</h3>
 
+<!-- Typing dev GIF -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400"/>
+</p>
+
+<!-- Typing animation -->
+<p align="center">
+  <a href="https://github.com/Sunny5130">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;DevOps+Learner;DSA+Enthusiast;Open+Source+Contributor;Always+Learning!&center=true&width=500&height=50">
+  </a>
+</p>
 
 ---
 
@@ -18,7 +29,7 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,php,react,nodejs,nestjs,express,mongodb,mysql,html,css,bootstrap,git,linux,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,php,react,nodejs,nestjs,express,mongodb,mysql,html,css,bootstrap,angular,git,linux,docker,vscode" />
 </p>
 
 ---
