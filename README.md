@@ -27,10 +27,19 @@
 
 ---
 
-### 📫 Connect with me  
+### 📫 Connect with me
+
 <p align="left">
   <a href="https://linkedin.com/in/sunny-sainis" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunny-sainis" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+
+  <a href="mailto:sunny1972003@gmail.com" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" />
+  </a>
+
+  <a href="https://github.com/Sunny5130" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
   </a>
 </p>
 
@@ -38,7 +47,6 @@
 
 ### 🛠️ Languages and Tools
 <p align="left">
-  <!-- Auto-looped tech icons -->
   <img src="https://skillicons.dev/icons?i=cpp,react,nodejs,mongodb,php,laravel,mysql,html,css,js,bootstrap,angular,express,git,linux,vscode" />
 </p>
 
