@@ -11,7 +11,7 @@
 ## 👨‍💻 <sub>About Me</sub>
 
 - 🚧 <sub>Building full-stack web apps</sub>  
-- 🌱 <sub>Currently exploring DevOps, Advanced DSA, and Cloud Computing</sub>  
+- 🌱 <sub>Currently exploring DevOps, Advanced DSA, and Fullstack tools</sub>  
 - 💬 <sub>Ask me about React, Node.js, MongoDB, DSA in C++, Frontend Frameworks, and Problem-Solving</sub>  
 - 📫 <sub>Reach me at: <a href="mailto:sunny1972003@gmail.com">sunny1972003@gmail.com</a></sub>  
 - 🌐 <sub>Portfolio: <a href="https://portfolio-soft-skills-c9vj-mevcjio50.vercel.app">portfolio-soft-skills-c9vj-mevcjio50.vercel.app</a></sub>  
