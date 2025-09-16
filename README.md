@@ -14,7 +14,7 @@
 - 🌱 <sub>Currently exploring DevOps, Advanced DSA, and Fullstack tools</sub>  
 - 💬 <sub>Ask me about React, Node.js, MongoDB, DSA in C++, Frontend Frameworks, and Problem-Solving</sub>  
 - 📫 <sub>Reach me at: <a href="mailto:sunny1972003@gmail.com">sunny1972003@gmail.com</a></sub>  
-- 🌐 <sub>Portfolio: <a href="https://portfolio-sunnysaini.vercel.app/">portfolio-soft-skills-c9vj-mevcjio50.vercel.app</a></sub>  
+- 🌐 <sub>Portfolio: <a href="https://portfolio-sunnysaini.vercel.app/">portfolio-sunnysaini.vercel.app</a></sub>  
 - ⚡ <sub>Fun fact: I debug faster when my playlist hits lo-fi beats 🎧</sub>
 
 ---
